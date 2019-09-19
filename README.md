@@ -16,6 +16,10 @@ by leveraging the modern web.
 
 Follow this step by step process to setup the application locally. This includes:
 
+## Deployment
+
+The deployed frontend application can be accessed through this link: ah-frontend-prime.herokuapp.com
+
 ### Dependencies
 
 Install the following software requirements:
